@@ -1,2 +1,1 @@
-# onlyteo.github.io
-GitHub Page for onlyteo
+# GitHub Page for onlyteo
